@@ -89,10 +89,4 @@ async function addNewClick(ip, reference) {
   }
 }
 
-export {
-  addNewClick,
-  getAnnouncementById,
-  getLinkByReference,
-  getReferenceByReference,
-  newIpClick,
-};
+export { addNewClick, getLinkByReference, getReferenceByReference, newIpClick };
